@@ -1,7 +1,4 @@
-# IDSA Task Force: Data Spaces & AI
-
-> **International Data Spaces Association**  
-> *Shaping the trusted use of AI within data spaces*
+# IDSA Task Force: Data Spaces & AI 
 
 ---
 
