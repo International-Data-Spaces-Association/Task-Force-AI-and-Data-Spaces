@@ -1,6 +1,6 @@
 # IDSA Task Force: Data Spaces & AI 
 
-To show interest in the Task Force, please [fill in this form:](https://forms.office.com/e/Dfd5JCyw4h)
+To join in the Task Force mailing group, please [fill in this form:](https://forms.office.com/e/Dfd5JCyw4h)
 
 ---
 
