@@ -10,7 +10,6 @@ Key topics the community has identified include:
 
 - A general understanding of how data spaces and AI relate to each other
 - Clear AI rules within data spaces — e.g. when AI may consume data (RAG, analytics) and when not (model training without consent)
-- Ready-made policy templates for members (e.g. training allowed/not allowed, retention, logging)
 - AI tools and AI agents as participants in a data space, including required interfaces and constraints
 - Technical interaction patterns — e.g. sequence diagrams showing RAG access, model use, and agent↔connector interactions under policy enforcement
 
