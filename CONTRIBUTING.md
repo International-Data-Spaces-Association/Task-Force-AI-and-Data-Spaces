@@ -7,9 +7,7 @@ Thank you for your interest in this work! This task force is an open, community-
 ## Ways to Get Involved
 
 ### 📧 Join the Task Force
-To become a formal member and participate in our bi-weekly meetings, reach out directly to:
-
-**Anil Turkmayali** · [anil.turkmayali@internationaldataspaces.org](mailto:anil.turkmayali@internationaldataspaces.org)
+To become a formal member and participate in our bi-weekly meetings, please [fill in this form](https://forms.office.com/e/Dfd5JCyw4h)
 
 ### 💬 Open an Issue
 GitHub Issues are the primary space for discussion in this repository. Use them to:
