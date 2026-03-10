@@ -58,27 +58,6 @@ The easiest way to get involved is to [**fill in this form**](https://forms.offi
 
 We welcome participation from IDSA members, data space implementers, AI practitioners, and anyone with a stake in trusted data sharing.
 
-### Contribute via GitHub
-
-You can also contribute directly through this repository:
-
-**Open an Issue** to:
-- Propose a topic, use case, or discussion point
-- Flag a gap or error in existing content
-- Ask a question or request clarification
-
-**Submit a Pull Request** to:
-- Add or improve content in any document
-- Contribute a use case, diagram, or policy template
-- Fix typos or improve clarity
-
-Steps for a PR:
-1. Fork this repository
-2. Create a branch: `git checkout -b your-topic`
-3. Make your changes in Markdown
-4. Open a pull request with a short description
-
-
 ---
 
 ## Task Force Members
