@@ -68,8 +68,6 @@ We welcome participation from IDSA members, data space implementers, AI practiti
 | *TBD* | | Member |
 | *TBD* | | Member |
 
-*Want to be listed? Reach out or open an issue with the label `membership`.*
-
 ---
 
 ## License
