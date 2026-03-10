@@ -6,7 +6,8 @@ To join in the Task Force mailing group, please [fill in this form:](https://for
 
 ## Overview
 
-Artificial Intelligence (AI) is rapidly becoming one of the most significant forces shaping how data is consumed, processed, and shared. As AI adoption accelerates, IDSA members have raised a growing demand for **guidance on the interplay between data spaces and AI**. This Task force builds on the previous work from the WG Architecture and Rulebook on this field. 
+Artificial Intelligence (AI) is rapidly becoming one of the most significant forces shaping how data is consumed, processed, and shared. As AI adoption accelerates, IDSA members have raised a growing demand for **guidance on the interplay between data spaces and AI**. This Task force builds on the previous work from the WG Architecture and [Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook/idsa-rulebook/ai-agents-and-data-spaces) on this field. 
+
 
 Key topics the community has identified include:
 
