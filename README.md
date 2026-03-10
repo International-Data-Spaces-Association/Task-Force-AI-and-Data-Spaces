@@ -54,9 +54,7 @@ The task force starts in April targets a **9-month working period**, resulting i
 
 ### Get in Touch
 
-The easiest way to get involved is to **reach out directly**:
-
-📧 [anil.turkmayali@internationaldataspaces.org](mailto:anil.turkmayali@internationaldataspaces.org)
+The easiest way to get involved is to [**fill in this form**](https://forms.office.com/e/Dfd5JCyw4h)
 
 We welcome participation from IDSA members, data space implementers, AI practitioners, and anyone with a stake in trusted data sharing.
 
