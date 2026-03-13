@@ -1,6 +1,7 @@
 # IDSA Task Force: Data Spaces & AI 
 
 To join in the Task Force mailing group, please [fill in this form:](https://forms.office.com/e/Dfd5JCyw4h)
+Please note that this task force is for **IDSA members-only.** To become a member you can [visit this page](https://internationaldataspaces.org/we/become-a-member/).
 
 ---
 
