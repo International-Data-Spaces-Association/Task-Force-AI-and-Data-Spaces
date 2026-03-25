@@ -35,9 +35,9 @@ The task force starts in April targets a **3-month working period**, resulting i
 
 | Phase | Timeframe | Focus | Output |
 |-------|-----------|-------|--------|
-| **1 — Scoping** | April | Align on scope, use cases and key questions | Shared problem statement and identified outcome(s) (TBD) |
-| **2 — Development** | May | Develop content across topic areas | Additions to IDSA Rulebook and/or IDS RAM, a position paper (TBD) |
-| **3 — Review & Publication** | mid-June | Community review and consolidation | Position paper v1.0 (TBD) |
+| **1 — Scoping** | April | Align on scope, use cases and key questions | (TBD) |
+| **2 — Development** | May | Develop content across topic areas |  (TBD) |
+| **3 — Review & Publication** | mid-June | Community review and consolidation | Position/Impact paper v1.0 (TBD) |
 | **4 — Reconvention and Review of Backlog** | September | Review of Backlog Items, Evaluation of the Feedback Collected | (TBD) |
 
 ---
