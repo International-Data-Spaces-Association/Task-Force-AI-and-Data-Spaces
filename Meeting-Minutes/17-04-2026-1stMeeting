@@ -1,0 +1,64 @@
+# Kick-off Meeting — IDSA Task Force on AI & Data Spaces
+
+**Date:** 17 April 2026 · **Time:** 11:00 – 13:00 CET · **Format:** Microsoft Teams (recorded)
+
+---
+
+## Meeting highlights
+
+**Scope and approach.** Participants aligned on focusing the Task Force on how existing data space technologies apply in an AI context, rather than inventing new protocols or architectures. Peter articulated this direction and Reinhold supported it. This framing anchors the scoping paper: document, explain, and connect what already exists, and identify where extensions or refinements are genuinely needed.
+
+**Relationship with AI-native protocols.** Christoph highlighted the need to deepen the IDSA Reference Architecture by exploring how the Dataspace Protocol connects to emerging AI protocols such as the Model Context Protocol, A2A agentic protocols, and DCP — including the role of trust providers. Achim noted MCP's widespread market adoption and pointed to a gap in how the value of data space technology is communicated alongside AI-native protocols. The Task Force will address this complementarity explicitly.
+
+**Communication and outreach.** Reinhold proposed that IDSA should issue a high-level statement on the current capabilities of data space and AI protocols, timed for Hannover Messe. Christina emphasized that such a document must be accessible to both the IDSA community and to new audiences — particularly AI practitioners unfamiliar with data spaces. Peter proposed **"better together"** as the positioning message. A dedicated communications brief has been prepared as a follow-up and shared with the IDSA Board and Marketing & Communications.
+
+**Working mode.** Bi-weekly meetings via Microsoft Teams. All collaborative work happens transparently on the public GitHub repository. Meeting notes are published in `/meetings`. Recordings are shared only with registered Task Force members via the Microsoft Teams directory. Peter underlined the benefits of GitHub-based authoring over shared Word documents, given version control and contribution tracking.
+
+**Deliverables and timeline.** The Task Force targets at least one tangible outcome by 30 June 2026, with items beyond that horizon consolidated into a follow-on backlog. Peter proposed distinguishing between Agentic AI (execution in data spaces) and AI training, potentially as separate streams. Peter also emphasized that outputs should feed future versions of the Rulebook and existing IDSA assets, rather than standing apart from them. Christina cautioned to keep in-scope proposals realistic for the June horizon while encouraging longer-horizon ideas for the backlog. Achim offered to coordinate editing across whitepaper sections if writing is distributed.
+
+**Task Force naming.** Several naming options were collected on the Miro board. Lars recommended a generic name given the fact-finding nature of the early phase; Christina and others supported this. Peter advised against "interoperability" in the name and proposed "better together" as a message rather than a title. The working title *"Task Force on AI & Data Spaces"* was retained, with a shortlist to be put to an async vote.
+
+**Organizational matters.** Per IDSA practice, (Co-)Chairs are appointed by the IDSA Board. A call for volunteers and nominations is open. Until appointment is confirmed, Anil continues as facilitator.
+
+---
+
+## Decisions
+
+- Bi-weekly meetings confirmed (Microsoft Teams)
+- 1 May meeting skipped (public holiday); next meeting **Thursday 8 May 2026**
+- Working mode: transparent, via the public GitHub repository; meeting recordings restricted to registered members
+- Scoping principle: apply existing IDSA assets (DSP, RAM, Rulebook) to AI; do not invent new protocols
+- Working title retained; name shortlist to go to async vote
+
+---
+
+## Action items
+
+| # | Action | Owner | Due |
+|---|---|---|---|
+| 1 | Share Miro board, GitHub repository, and Teams recording directory links with all members | Anil | This week |
+| 2 | Close Miro board contributions ahead of Meeting #2 | All members | 8 May |
+| 3 | Publish kick-off minutes in the repository | Anil | This week |
+| 4 | Share high-level communication statement for Hannover Messe with participants, Board, and M&C | Anil | Complete |
+| 5 | Circulate prioritization form on the candidate deliverables | Anil | Week of 28 Apr |
+| 6 | Propose additional or refine candidate deliverables (Miro / GitHub) | All members | 8 May |
+| 7 | Draft introductory paper for new audiences (outline) | Anil + Christina | 8 May |
+| 8 | Compile list of unsolved use cases | Anil + Peter + community | 22 May |
+| 9 | Circulate chair nomination call to the mailing group | Anil | Week of 21 Apr |
+
+---
+
+## Next meeting
+
+**Thursday, 8 May 2026, 11:00 – 12:30 CET** — Microsoft Teams *(recurring invite sent separately)*
+
+Provisional agenda:
+1. Review of action items
+2. Prioritization-form results — v1.0 scope confirmation
+3. Scoping paper outline (table of contents)
+4. Workstream assignments
+5. AOB
+
+---
+
+*Minutes compiled by Anil Turkmayali. Corrections welcome via PR or Issue.*
