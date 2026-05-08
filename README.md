@@ -50,12 +50,8 @@ We welcome participation from IDSA members, data space implementers, AI practiti
 
 ---
 
-## Task Force Members
-
-| Name | Organization | Role |
-|------|-------------|------|
-| *TBD* | | Member |
-| *TBD* | | Member |
+## Task Force Members (Participating organisations)
+1001 Lakes, BII Group, Eldorado, Fraunhofer IOSB, Fraunhofer ISST, FS Software, Gaia-X, GMV, Huawei, Microsoft, msg Group, Mulan IT Solutions, NEC, NIIS, NTT DATA, OA Book Usage, SICK AG, Sphin-X, TNO, University of Tokyo, VTT
 
 ---
 
